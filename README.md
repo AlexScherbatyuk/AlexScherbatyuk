@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
 ## About Me
 
-Skilled web2/web3 engineer focused on web3 smart contracts security research and development. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for DeFi, NFTs, Stablecoins, and Rebase tokens, including upgradible proxy contract and interoperability contracts based on Chainlink CCIP.
+Skilled web2/web3 engineer focused on web3 smart contracts security research and development. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for DeFi, NFTs, Stablecoins, and Rebase tokens, including upgradable proxy contract and interoperability contracts based on Chainlink CCIP.
 
 
 
@@ -20,6 +20,7 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 - Twitter: [@AlexScherbatyuk](https://twitter.com/AlexScherbatyuk)
 - LinkedIn: [AlexScherbatyuk](https://www.linkedin.com/in/AlexScherbatyuk)
 - Telegram: [@AlexScherbatyuk](https://t.me/AlexScherbatyuk)
+- GitHub: [AlexScherbatyuk](https://github.com/AlexScherbatyuk)
 <!--- Website: [AlexScherbatyuk](https://alexscherbatyuk.com) -->
 
 ## Experience
@@ -27,11 +28,17 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 - September 2024 - May 2025: Blockchain full-stack developer at ChopChop
 - May 2016 - August 2024: Senior Siebel Architect / Blockchain engineer at Siblion
 
-## Education
+<!--## Education
 - Cyfrin Updraft
-- Bachelor's degree in Computer Science,Moscow State University of Electronics and Mathematics
+- Bachelor's degree in Computer Science,Moscow State University of Electronics and Mathematics-->
 
 ## Highlights
+- Developed smart contracts for DeFi, NFTs, Stablecoins, Rebase tokens, DAOs, Lottery, including upgradable proxy.
+- Multiple top findings in Codehawks audit contests.
+- Developed cross-chain interoperability solutions using Chainlink CCIP.
+- Built upgradable proxy contracts and advanced DeFi primitives.
+
+
 
 ## Audit Contests
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
