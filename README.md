@@ -21,19 +21,15 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 - LinkedIn: [AlexScherbatyuk](https://www.linkedin.com/in/AlexScherbatyuk)
 - Telegram: [@AlexScherbatyuk](https://t.me/AlexScherbatyuk)
 - GitHub: [AlexScherbatyuk](https://github.com/AlexScherbatyuk)
-<!--- Website: [AlexScherbatyuk](https://alexscherbatyuk.com) -->
+<!--- Website:  -->
 
 ## Experience
 - May 2025-present: Blockchain full-stack developer at zkNoid
 - September 2024 - May 2025: Blockchain full-stack developer at ChopChop
 - May 2016 - August 2024: Senior Siebel Architect / Blockchain engineer at Siblion
 
-<!--## Education
-- Cyfrin Updraft
-- Bachelor's degree in Computer Science,Moscow State University of Electronics and Mathematics-->
-
 ## Highlights
-- Developed smart contracts for DeFi, NFTs, Stablecoins, Rebase tokens, DAOs, Lottery, including upgradable proxy.
+- Developed smart contracts for DeFi, NFTs, Stablecoins, Rebase tokens, DAOs, Lottery.
 - Multiple top findings in Codehawks audit contests.
 - Developed cross-chain interoperability solutions using Chainlink CCIP.
 - Built upgradable proxy contracts and advanced DeFi primitives.
