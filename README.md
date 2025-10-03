@@ -40,8 +40,8 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
 | ------- | ---- | ----------- | ------- | ------- | ------- | ------- | ------- |
 | Bid Beasts |  | 📄 | September 2025 | Codehawks | EVM | Solidity | Marketplace |
-| Secret Vault on Aptos | 1 High, 1 Low | 📄 | August 2025 | Codehawks | Aptos | Move | Game |
-| Last Man Standing | 1 Medium, 1 Low | 📄 | August 2025 | Codehawks | EVM | Solidity | Game |
+| Secret Vault on Aptos | 1 High, 1 Low | 📄 | August 2025 | Codehawks | Aptos | Move | Vault |
+| Last Man Standing | 1 Medium, 1 Low | 📄 | August 2025 | Codehawks | EVM | Solidity | Onchain Game |
 | BeatLand Festival | 1 Medium | 📄 | July 2025 | Codehawks | EVM | Solidity | Marketplace |
 | OrderBook | 1 High | 📄 | July 2025 | Codehawks | EVM | Solidity | Peer-to-peer trading system |
 
