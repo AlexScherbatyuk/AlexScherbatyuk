@@ -26,11 +26,11 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 ## Experience
 - May 2025-present: Blockchain full-stack developer at zkNoid
 - September 2024 - May 2025: Blockchain full-stack developer at ChopChop
-- May 2016 - August 2024: Senior Siebel Architect / Blockchain engineer at Siblion
+- May 2016 - August 2024: Senior Siebel Architect at Siblion
 
 ## Highlights
 - Developed smart contracts for DeFi, NFTs, Stablecoins, Rebase tokens, DAOs, Lottery.
-- Multiple top findings in Codehawks audit contests.
+- Multiple top findings in Codehawks' First Flight audit contests.
 - Developed cross-chain interoperability solutions using Chainlink CCIP.
 - Built upgradable proxy contracts and advanced DeFi primitives.
 
@@ -39,11 +39,11 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 ## Audit Contests: First Flight
 | Contest | Found | Date | Platform | Blockchain | Language | Category |
 | ------- | ---- | ----------- | ------- | ------- | ------- | ------- |
-| Bid Beasts |  | September 2025 | Codehawks | EVM | Solidity | Marketplace |
+| Bid Beasts | 3 High, 2 Medium, 1 Low | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
 | Secret Vault on Aptos | 1 High, 1 Low | August 2025 | Codehawks | Aptos | Move | Vault |
 | Last Man Standing | 1 Medium, 1 Low | August 2025 | Codehawks | EVM | Solidity | Onchain Game |
 | BeatLand Festival | 1 Medium | July 2025 | Codehawks | EVM | Solidity | Marketplace |
-| OrderBook | 1 High | July 2025 | Codehawks | EVM | Solidity | Peer-to-peer trading system |
+| OrderBook | 1 High | July 2025 | Codehawks | EVM | Solidity | Peer-to-peer Trading system |
 
 <!--## Audit Contests:
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
