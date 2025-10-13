@@ -34,7 +34,15 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 - Developed cross-chain interoperability solutions using Chainlink CCIP.
 - Built upgradable proxy contracts and advanced DeFi primitives.
 
+## Cources & Bootcamps
 
+### Cyfrin Updraft
+- Uniswap V4
+- Advanced Web3 Wallet Security
+- Advanced Foundry
+- Solidity Smart Contract Development
+- Chainlink Fundamentals
+- Blochain Basics
 
 ## Audit Contests: First Flight
 | Contest | Found | Date | Platform | Blockchain | Language | Category |
