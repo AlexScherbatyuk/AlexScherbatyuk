@@ -47,7 +47,7 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 ## Audit Contests: First Flight
 | Contest | Found | Date | Platform | Blockchain | Language | Category |
 | ------- | ---- | ----------- | ------- | ------- | ------- | ------- |
-| Bid Beasts | 3 High, 2 Medium, 1 Low | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
+| Bid Beasts | 2 High, 2 Medium, 1 Low | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
 | Secret Vault on Aptos | 1 High, 1 Low | August 2025 | Codehawks | Aptos | Move | Vault |
 | Last Man Standing | 1 Medium, 1 Low | August 2025 | Codehawks | EVM | Solidity | Onchain Game |
 | BeatLand Festival | 1 Medium | July 2025 | Codehawks | EVM | Solidity | Marketplace |
