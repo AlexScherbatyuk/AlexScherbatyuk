@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
 ## About Me
 
-Skilled web2/web3 engineer focused on web3 smart contracts security research and development. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for DeFi, NFTs, Stablecoins, and Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP.
+Skilled blockchain engineer focused on web3 smart contracts security research and development. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for DeFi, NFTs, Stablecoins, and Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP.
 
 
 
