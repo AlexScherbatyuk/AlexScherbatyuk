@@ -42,7 +42,7 @@ Skilled web2/web3 engineer focused on web3 smart contracts security research and
 - Advanced Foundry
 - Solidity Smart Contract Development
 - Chainlink Fundamentals
-- Blochain Basics
+- Blockchain Basics
 
 ## Audit Contests: First Flight
 | Contest | Found | Date | Platform | Blockchain | Language | Category |
