@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
 ## About Me
 
-Skilled blockchain engineer focused on smart contracts security research and development. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for DeFi, NFTs, Stablecoins, and Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP.
+Skilled Solidity developer and Blockchain engineer focused on smart contracts security research and development. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for DeFi, NFTs, Stablecoins, and Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP.
 
 
 
@@ -36,8 +36,9 @@ Skilled blockchain engineer focused on smart contracts security research and dev
 
 ## Cources & Bootcamps
 
-### Cyfrin Updraft
+### Cyfrin Updraft Achievements
 - Uniswap V4
+- Uniswap V2
 - Advanced Web3 Wallet Security
 - Advanced Foundry
 - Solidity Smart Contract Development
