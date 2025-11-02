@@ -37,6 +37,7 @@ Skilled Solidity developer and Blockchain engineer focused on smart contracts se
 ## Cources & Bootcamps
 
 ### Cyfrin Updraft Achievements
+- Rust Programming Basics
 - Uniswap V4
 - Uniswap V2
 - Advanced Web3 Wallet Security
@@ -48,6 +49,8 @@ Skilled Solidity developer and Blockchain engineer focused on smart contracts se
 ## Audit Contests: First Flight
 | Contest | Found | Date | Platform | Blockchain | Language | Category |
 | ------- | ---- | ----------- | ------- | ------- | ------- | ------- |
+| Company Simulator| 1 Medium | October 2025 | Codehawks | EVM | Vyper | DeFi |
+| Raisebox Faucet| 2 High, 2 Medium | October 2025 | Codehawks | EVM | Solidity | Faucet |
 | Bid Beasts | 2 High, 2 Medium, 1 Low | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
 | Secret Vault on Aptos | 1 High, 1 Low | August 2025 | Codehawks | Aptos | Move | Vault |
 | Last Man Standing | 1 Medium, 1 Low | August 2025 | Codehawks | EVM | Solidity | Onchain Game |
