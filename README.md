@@ -12,9 +12,9 @@ Skilled Solidity developer and Blockchain engineer focused on smart contracts se
 - Focus Areas: Smart contract security and development
 
 ### Secondary
-- Languages: TypeScript, JavaScript, Move, Rust
+- Languages: Rust, Move, TypeScript, JavaScript
 - Platforms: Solana, SUI, Mina
-- Focus Areas: Blockchain protocols and applications development
+- Focus Areas: Blockchain protocols and decentralized applications development
 
 ## Contact Me 
 - Twitter: [@AlexScherbatyuk](https://twitter.com/AlexScherbatyuk)
@@ -46,10 +46,10 @@ Skilled Solidity developer and Blockchain engineer focused on smart contracts se
 - Chainlink Fundamentals
 - Blockchain Basics
 
+<!--| Company Simulator| 1 Medium | October 2025 | Codehawks | EVM | Vyper | DeFi |-->
 ## Audit Contests: First Flight
 | Contest | Found | Date | Platform | Blockchain | Language | Category |
 | ------- | ---- | ----------- | ------- | ------- | ------- | ------- |
-<!--| Company Simulator| 1 Medium | October 2025 | Codehawks | EVM | Vyper | DeFi |-->
 | Raisebox Faucet| 2 High, 2 Medium | October 2025 | Codehawks | EVM | Solidity | Faucet |
 | Bid Beasts | 2 High, 2 Medium, 1 Low | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
 | Secret Vault on Aptos | 1 High, 1 Low | August 2025 | Codehawks | Aptos | Move | Vault |
