@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
 ## About Me
 
-Skilled Solidity developer and Blockchain engineer focused on smart contracts security research and development. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for DeFi, NFTs, Stablecoins, and Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP.
+ Solidity developer and Blockchain engineer focused on smart contracts security research and development. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for DeFi, NFTs, Stablecoins, and Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP.
 
 
 
@@ -46,10 +46,10 @@ Skilled Solidity developer and Blockchain engineer focused on smart contracts se
 - Chainlink Fundamentals
 - Blockchain Basics
 
-<!--| Company Simulator| 1 Medium | October 2025 | Codehawks | EVM | Vyper | DeFi |-->
 ## Audit Contests: First Flight
 | Contest | Found | Date | Platform | Blockchain | Language | Category |
 | ------- | ---- | ----------- | ------- | ------- | ------- | ------- |
+| Company Simulator| 1 Medium | October 2025 | Codehawks | EVM | Vyper | DeFi |
 | Raisebox Faucet| 2 High, 2 Medium | October 2025 | Codehawks | EVM | Solidity | Faucet |
 | Bid Beasts | 2 High, 2 Medium, 1 Low | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
 | Secret Vault on Aptos | 1 High, 1 Low | August 2025 | Codehawks | Aptos | Move | Vault |
