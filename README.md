@@ -33,6 +33,7 @@
 - Multiple top findings in Codehawks' First Flight audit contests.
 - Developed cross-chain interoperability solutions using Chainlink CCIP.
 - Built upgradable proxy contracts and advanced DeFi primitives.
+- Conducted code reviews as a CRM architect for over 6 years.
 
 ## Cources & Bootcamps
 
