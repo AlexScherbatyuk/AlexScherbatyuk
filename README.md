@@ -58,6 +58,11 @@
 | BeatLand Festival | 1 Medium | July 2025 | Codehawks | EVM | Solidity | Marketplace |
 | OrderBook | 1 High | July 2025 | Codehawks | EVM | Solidity | Peer-to-peer Trading system |
 
+### First Flight Audit Reports
+- [Raisebox Faucet](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-raisebox-faucet-audit.pdf)
+- [Bid Beasts](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-bid-beasts-audit.pdf)
+- [OrderBook](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf)
+
 <!--## Audit Contests:
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
 | ------- | ---- | ----------- | ------- | ------- | ------- | ------- | ------- |
