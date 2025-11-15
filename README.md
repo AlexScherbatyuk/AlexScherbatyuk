@@ -61,6 +61,9 @@
 ### First Flight Audit Reports
 - [Raisebox Faucet](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-raisebox-faucet-audit.pdf)
 - [Bid Beasts](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-bid-beasts-audit.pdf)
+- [Secret Vault on Aptos](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-08-secret-vault-audit.pdf)
+- [Last Man Standing](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf)
+- [BeatLand Festival](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-beatland-festival-audit.pdf)
 - [OrderBook](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf)
 
 <!--## Audit Contests:
