@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
 ## About Me
 
-Smart contracts security researcher and blockchain developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP.
+Smart contracts security researcher and blockchain developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Echidna and Medusa) and static analysis.
+
 
 ## Technical Expertise
 ### Main
