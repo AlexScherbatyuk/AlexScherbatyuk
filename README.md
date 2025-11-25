@@ -36,7 +36,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 - Conducted code reviews as a CRM architect for over 6 years.
 
 ## Research articles
-- Yes, You DO Need a Reentrancy Guard on ERC20 Transfers. No, It’s Not Insane. [medium.com](https://medium.com/@AlexScherbatyuk/yes-you-do-need-a-reentrancy-guard-on-erc20-transfers-no-its-not-insane-cd9d50f1f6a3)
+- [Yes, You DO Need a Reentrancy Guard on ERC20 Transfers. No, It’s Not Insane](https://medium.com/@AlexScherbatyuk/yes-you-do-need-a-reentrancy-guard-on-erc20-transfers-no-its-not-insane-cd9d50f1f6a3)
 
 ## Cources & Bootcamps
 
