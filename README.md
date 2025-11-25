@@ -20,6 +20,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 - LinkedIn: [AlexScherbatyuk](https://www.linkedin.com/in/AlexScherbatyuk)
 - Telegram: [@AlexScherbatyuk](https://t.me/AlexScherbatyuk)
 - GitHub: [AlexScherbatyuk](https://github.com/AlexScherbatyuk)
+- Medium: [@AlexScherbatyuk](https://medium.com/@AlexScherbatyuk)
 <!--- Website:  -->
 
 ## Experience
