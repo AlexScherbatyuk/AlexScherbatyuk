@@ -19,7 +19,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexscherbatyuk%2F)
 ![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.t.me%2Falexscherbatyuk)
 ![Twitter/X](https://img.shields.io/badge/-Twitter/X-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fx.com%2FAlexScherbatyuk)
-![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40AlexScherbatyuk)
+![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://medium.com/@AlexScherbatyuk)
 
 <!---- 
 ![LinkedIn](https://img.shields.io/badge/AlexScherabatyuk-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexscherbatyuk%2F)
