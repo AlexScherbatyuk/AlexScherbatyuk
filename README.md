@@ -36,8 +36,8 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 - Conducted code reviews as a CRM architect for over 6 years.
 
 ## Research & Articles
-- [Yes, You DO Need a Reentrancy Guard on ERC20 Transfers. No, It’s Not Insane](https://medium.com/@AlexScherbatyuk/yes-you-do-need-a-reentrancy-guard-on-erc20-transfers-no-its-not-insane-cd9d50f1f6a3)
 - [The Hidden Superpower of memory storage location. That Every Solidity Dev Misses](https://medium.com/@AlexScherbatyuk/the-hidden-superpower-of-memory-storage-location-that-every-solidity-dev-misses-6898d1a0c347)
+- [Yes, You DO Need a Reentrancy Guard on ERC20 Transfers. No, It’s Not Insane](https://medium.com/@AlexScherbatyuk/yes-you-do-need-a-reentrancy-guard-on-erc20-transfers-no-its-not-insane-cd9d50f1f6a3)
 
 ## Cources & Bootcamps
 
