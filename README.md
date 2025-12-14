@@ -61,6 +61,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 ## Audit Contests: First Flight
 | Contest | Found | Date | Platform | Blockchain | Language | Category |
 | ------- | ---- | ----------- | ------- | ------- | ------- | ------- |
+| RebateFi Hook | 2 High, 1 Medium, 1 Low | November 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
 | BriVault | 2 High | November 2025 | Codehawks | EVM | Solidity | Vault |
 | Company Simulator| 1 Medium | October 2025 | Codehawks | EVM | Vyper | DeFi |
 | Raisebox Faucet| 2 High, 2 Medium | October 2025 | Codehawks | EVM | Solidity | Faucet |
