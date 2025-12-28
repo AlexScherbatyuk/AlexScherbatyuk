@@ -1,4 +1,9 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
+<!--![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexscherbatyuk%2F)
+![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.t.me%2Falexscherbatyuk)
+![Twitter/X](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fx.com%2FAlexScherbatyuk)
+![Medium](https://img.shields.io/badge/-Medium-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://medium.com/@AlexScherbatyuk)
+-->
 ## About Me
 
 Smart contracts security researcher and blockchain developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Echidna and Medusa) and static analysis.
@@ -21,13 +26,6 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 - LinkedIn: [AlexScherbatyuk](https://www.linkedin.com/in/AlexScherbatyuk)
 - Telegram: [@AlexScherbatyuk](https://t.me/AlexScherbatyuk)
 - Medium: [@AlexScherbatyuk](https://medium.com/@AlexScherbatyuk)
- 
-<!----![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexscherbatyuk%2F)
-![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.t.me%2Falexscherbatyuk)
-![Twitter/X](https://img.shields.io/badge/-Twitter/X-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fx.com%2FAlexScherbatyuk)
-![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://medium.com/@AlexScherbatyuk)
-
-
 <!--- Website:  -->
 
 ## Experience
@@ -81,7 +79,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 - [Last Man Standing](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf)
 - [BeatLand Festival](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-beatland-festival-audit.pdf)
 - [OrderBook](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf)
--->
+s-->
 
 <!--## Audit Contests:
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
