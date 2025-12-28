@@ -59,26 +59,29 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 - Blockchain Basics
 
 ## Audit Contests: First Flight
-| Contest | Found | Date | Platform | Blockchain | Language | Category |
-| ------- | ---- | ----------- | ------- | ------- | ------- | ------- |
-| Token-0x | 1 High, 2 Low | December 2025 | Codehawks | EVM | Solidity | ERC20 |
-| RebateFi Hook | 2 High, 1 Medium, 1 Low | November 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
-| BriVault | 2 High | November 2025 | Codehawks | EVM | Solidity | Vault |
-| Company Simulator| 1 Medium | October 2025 | Codehawks | EVM | Vyper | DeFi |
-| Raisebox Faucet| 2 High, 2 Medium | October 2025 | Codehawks | EVM | Solidity | Faucet |
-| Bid Beasts | 2 High, 2 Medium, 1 Low | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
-| Secret Vault on Aptos | 1 High, 1 Low | August 2025 | Codehawks | Aptos | Move | Vault |
-| Last Man Standing | 1 Medium, 1 Low | August 2025 | Codehawks | EVM | Solidity | Onchain Game |
-| BeatLand Festival | 1 Medium | July 2025 | Codehawks | EVM | Solidity | Marketplace |
-| OrderBook | 1 High | July 2025 | Codehawks | EVM | Solidity | Peer-to-peer Trading system |
+| Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
+| ------- | ----- | ------ | ---- | -------- | ---------- | -------- | -------- |
+| Token-0x | 1 High, 2 Low | | December 2025 | Codehawks | EVM | Solidity | ERC20 |
+| RebateFi Hook | 2 High, 1 Medium, 1 Low | | November 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
+| BriVault | 2 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-11-BriVault-audit.pdf) | November 2025 | Codehawks | EVM | Solidity | Vault ERC4626 |
+| Company Simulator| 1 Medium | | October 2025 | Codehawks | EVM | Vyper | DeFi |
+| Raisebox Faucet| 2 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-raisebox-faucet-audit.pdf) | October 2025 | Codehawks | EVM | Solidity | Faucet |
+| Bid Beasts | 2 High, 2 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-bid-beasts-audit.pdf) | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
+| Secret Vault on Aptos | 1 High, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-08-secret-vault-audit.pdf) | August 2025 | Codehawks | Aptos | Move | Vault |
+| Last Man Standing | 1 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf) | August 2025 | Codehawks | EVM | Solidity | Onchain Game |
+| BeatLand Festival | 1 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-beatland-festival-audit.pdf) | July 2025 | Codehawks | EVM | Solidity | Marketplace |
+| OrderBook | 1 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf) | July 2025 | Codehawks | EVM | Solidity | Peer-to-peer Trading system |
 
+<!--
 ### First Flight Audit Reports
+- [BriVault](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-11-BriVault-audit.pdf)
 - [Raisebox Faucet](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-raisebox-faucet-audit.pdf)
 - [Bid Beasts](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-bid-beasts-audit.pdf)
 - [Secret Vault on Aptos](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-08-secret-vault-audit.pdf)
 - [Last Man Standing](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf)
 - [BeatLand Festival](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-beatland-festival-audit.pdf)
 - [OrderBook](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf)
+-->
 
 <!--## Audit Contests:
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
