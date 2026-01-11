@@ -47,6 +47,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 ## Cources & Bootcamps
 
 ### Cyfrin Updraft Achievements
+- Smart Contract Security
 - Rust Programming Basics
 - Uniswap V4
 - Uniswap V2
