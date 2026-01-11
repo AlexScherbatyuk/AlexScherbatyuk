@@ -93,8 +93,8 @@ s-->
 | ------- | ---- | ----------- | ------- | ------- |
 | EthGlobal Unite DeFi | 2025 | Atomic Swap cross-chain protocol based on 1inch EVM and SUI | 1inch | none |
 | Chainlink Chromion | 2025 | Cross-chain DeFi protocol | Chainlink CCIP | none |
-| EthGlobal Bangkok| 2024 | Low code DeFi platform with zero-knowledge proofs | Vlayer | 🥈 2nd place |
-| EthGlobal Singapore | 2024 | Mobile web3 cross-chain financial application | 1inch | 🥇 1st place |
+| EthGlobal Bangkok| 2024 | Low code DeFi platform with zero-knowledge proofs | Vlayer | 🥈2nd place |
+| EthGlobal Singapore | 2024 | Mobile web3 cross-chain financial application | 1inch | 🥇1st place |
 | EthGlobal Online | 2024 | EVM based veterinary record register | Envio | none |
 
 <!--
