@@ -29,16 +29,21 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 <!--- Website:  -->
 
 ## Experience
-- May 2025-present: Blockchain full-stack developer at zkNoid
+- May 2025-present: Blockchain Full Stack developer at zkNoid
 - September 2024 - May 2025: Blockchain full-stack developer at ChopChop
 - May 2016 - August 2024: Senior Siebel Architect (Senior Full Stack Engineer) at Siblion
 
 ## Highlights
-- Developed smart contracts for DeFi, NFTs, Stablecoins, Rebase tokens, DAOs, Lottery.
-- Multiple top findings in Codehawks' First Flight audit contests.
-- Developed cross-chain interoperability solutions using Chainlink CCIP.
-- Built upgradable proxy contracts and advanced DeFi primitives.
-- Conducted code reviews as a CRM architect for over 6 years.
+- Built secure Solidity smart contracts for DeFi, NFTs, stablecoins, rebases, DAOs, lotteries & upgradeable proxies
+- Earned multiple top findings + top 5 ranking in CodeHawks First Flight audit contests
+- Reported 10+ high/medium-severity vulnerabilities on Sherlock, Code4rena, Immunefi & Cantina
+- Developed Chainlink CCIP-powered cross-chain solutions for seamless token transfers & messaging
+- Secured multiple 1st/2nd place (partner-sponsored) wins at ETHGlobal hackathons with production-grade DeFi prototypes
+- Selected for Uniswap Hook Incubator (UHI8) by Atrium Academy & Uniswap Foundation — building advanced Uniswap v4 hooks (Jan 2026 cohort)
+
+
+
+
 
 ## Research & Articles
 - [The Hidden Superpower of memory storage location. That Every Solidity Dev Misses](https://medium.com/@AlexScherbatyuk/the-hidden-superpower-of-memory-storage-location-that-every-solidity-dev-misses-6898d1a0c347)
