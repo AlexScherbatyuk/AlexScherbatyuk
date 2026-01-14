@@ -31,7 +31,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 ## Experience
 - May 2025-present: Blockchain full-stack developer at zkNoid
 - September 2024 - May 2025: Blockchain full-stack developer at ChopChop
-- May 2016 - August 2024: Senior Siebel Architect at Siblion
+- May 2016 - August 2024: Senior Siebel Architect (Senior Full Stack Engineer) at Siblion
 
 ## Highlights
 - Developed smart contracts for DeFi, NFTs, Stablecoins, Rebase tokens, DAOs, Lottery.
