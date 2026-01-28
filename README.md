@@ -51,13 +51,14 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 ### Cyfrin Updraft Achievements
 - Smart Contract Security
-- Rust Programming Basics
+- Rust Programming Basics 
 - Uniswap V4 / V3 / V2
 - Advanced Web3 Wallet Security
 - Advanced Foundry
 - Solidity Smart Contract Development
 - Chainlink Fundamentals
 - Blockchain Basics
+- [more](https://profiles.cyfrin.io/u/alexscherbatyuk/achievements/completed-courses)
 
 ## Audit Contests: First Flight
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
