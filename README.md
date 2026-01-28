@@ -6,7 +6,7 @@
 -->
 ## About Me
 
-Smart contracts security researcher and blockchain developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Echidna and Medusa) and static analysis.
+Smart contracts security researcher and developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Echidna and Medusa) and static analysis.
 
 
 ## Technical Expertise
@@ -34,15 +34,13 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 - May 2016 - August 2024: Senior Siebel Architect (Senior Full Stack Engineer) at Siblion
 
 ## Highlights
+- Secured 5th place in the Top 5 of the MultiSig Timelock Cyfrin CodeHawks First Flight audit contest.
+- Selected for Uniswap Hook Incubator (UHI8) by Atrium Academy & Uniswap Foundation — building advanced Uniswap v4 hooks (Jan 2026 cohort)
 - Built secure Solidity smart contracts for DeFi, NFTs, stablecoins, rebases, DAOs, lotteries & upgradeable proxies
 - Earned multiple top findings + top 5 ranking in CodeHawks First Flight audit contests
 - Reported 10+ high/medium-severity vulnerabilities on Sherlock, Code4rena, Immunefi & Cantina
 - Developed Chainlink CCIP-powered cross-chain solutions for seamless token transfers & messaging
 - Secured multiple 1st/2nd place (partner-sponsored) wins at ETHGlobal hackathons with production-grade DeFi prototypes
-- Selected for Uniswap Hook Incubator (UHI8) by Atrium Academy & Uniswap Foundation — building advanced Uniswap v4 hooks (Jan 2026 cohort)
-
-
-
 
 
 ## Research & Articles
@@ -54,8 +52,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 ### Cyfrin Updraft Achievements
 - Smart Contract Security
 - Rust Programming Basics
-- Uniswap V4
-- Uniswap V2
+- Uniswap V4 / V3 / V2
 - Advanced Web3 Wallet Security
 - Advanced Foundry
 - Solidity Smart Contract Development
@@ -65,6 +62,7 @@ Smart contracts security researcher and blockchain developer. With a proven abil
 ## Audit Contests: First Flight
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
 | ------- | ----- | ------ | ---- | -------- | ---------- | -------- | -------- |
+| MultiSig Timelock 🏅#5| 1 High, 2 Medium, 1 Low | | December 2025 | Codehawks | EVM | Solidity | Wallet |
 | Token-0x | 1 High, 2 Low | | December 2025 | Codehawks | EVM | Solidity | ERC20 |
 | RebateFi Hook | 2 High, 1 Medium, 1 Low | | November 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
 | BriVault | 2 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-11-BriVault-audit.pdf) | November 2025 | Codehawks | EVM | Solidity | Vault ERC4626 |
