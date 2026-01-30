@@ -96,7 +96,7 @@ s-->
 | Contest | Year | Description | Protocol | Winning place | Repository |
 | ------- | ---- | ----------- | ------- | -------------- | ---------- |
 | EthGlobal Unite DeFi | 2025 | Atomic Swap cross-chain protocol based on 1inch EVM and SUI | 1inch | none | [ethglobal-unitedefi-atomicswap-contracts](https://github.com/AlexScherbatyuk/ethglobal-unitedefi-atomicswap-contracts) |
-| Chainlink Chromion | 2025 | Cross-chain DeFi protocol | Chainlink CCIP | none | [chainlink-chromion-decup-contracts](https://github.com/AlexScherbatyuk/chainlink-chromion-decup-contracts) |
+| Chainlink Chromion | 2025 | Seamless cross-chain trading of multi-asset bundles, powered by Chainlink CCIP | Chainlink | none | [chainlink-chromion-decup-contracts](https://github.com/AlexScherbatyuk/chainlink-chromion-decup-contracts) |
 | EthGlobal Bangkok| 2024 | Low code DeFi platform with zero-knowledge proofs | Vlayer | 🥈2nd place | [ethglobal-bangkok-actionflow](https://github.com/Web3Homeless/actionflow) |
 | EthGlobal Singapore | 2024 | Mobile web3 cross-chain financial application | 1inch | 🥇1st place | [ethglobal-singapore-chopchop](https://github.com/Web3Homeless/ChopChopFrontend) |
 | EthGlobal Online | 2024 | EVM based veterinary record register | Envio | none | [ethglobal-dogba-contracts](https://github.com/AlexScherbatyuk/ethglobal-dogba-contracts) |
