@@ -37,8 +37,8 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - Secured 5th place in the Top 5 of the MultiSig Timelock Cyfrin CodeHawks First Flight audit contest.
 - Selected for Uniswap Hook Incubator (UHI8) by Atrium Academy & Uniswap Foundation — building advanced Uniswap v4 hooks (Jan 2026 cohort)
 - Built secure Solidity smart contracts for DeFi, NFTs, stablecoins, rebases, DAOs, lotteries & upgradeable proxies
-- Earned multiple top findings + top 5 ranking in CodeHawks First Flight audit contests
-- Reported 10+ high/medium-severity vulnerabilities on Sherlock, Code4rena, Immunefi & Cantina
+- Reported 10+ high/medium-severity vulnerabilities on CodeHawks First Flight audit contests
+- Reported multiple vulnerabilities on Sherlock, Code4rena, Immunefi & Cantina
 - Developed Chainlink CCIP-powered cross-chain solutions for seamless token transfers & messaging
 - Secured multiple 1st/2nd place (partner-sponsored) wins at ETHGlobal hackathons with production-grade DeFi prototypes
 
@@ -68,6 +68,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 | Contest | Reportings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
+| VII-Finance | 2 | | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
 | OpenCover Insured Vaults | 1 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
 | Flying Tulip | 2 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
 | Monolith Stablecoin Factory | 5 | 3 Info | Dec 2025 | Sherlock | EVM | Solidity | Stablecoin Factory / DeFi |
