@@ -49,6 +49,9 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 ## Cources & Bootcamps
 
+### Atrium Academy
+- Uniswap Hook Incubator (UHI8)
+
 ### Cyfrin Updraft Achievements
 - Smart Contract Security
 - Rust Programming Basics 
