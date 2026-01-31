@@ -60,6 +60,19 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - Blockchain Basics
 - [more](https://profiles.cyfrin.io/u/alexscherbatyuk/achievements/completed-courses)
 
+## Audit Contests: Proof of Consistent Protocol Reviews
+Reports rejected on: downgraded severity, trusted admin, user mistake, ..
+
+| Contest | Reportings | Confirmed | Date | Platform | Blockchain | Language | Category |
+| ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
+| OpenCover Insured Vaults | 1 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
+| Flying Tulip | 2 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
+| Monolith Stablecoin Factory | 5 | 3 Info | Dec 2025 | Sherlock | EVM | Solidity | Stablecoin Factory / DeFi |
+| Lido V3 | 2 | 1 Known | Nov 2025 - Dec 2025 | Immunefi | EVM | Solidity | Staking |
+| Centrifuge Protocol V3.1 | 2 | none | Oct 2025 - Nov 2025 | Sherlock | EVM | Solidity | RWA / DeFi |
+| Sequence | 1 | none | Nov 2025 | Code4Rena | EVM | Solidity | Trails |
+
+
 ## Audit Contests: First Flight
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
 | ------- | ----- | ------ | ---- | -------- | ---------- | -------- | -------- |
