@@ -61,7 +61,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - [more](https://profiles.cyfrin.io/u/alexscherbatyuk/achievements/completed-courses)
 
 ## Audit Contests: Proof of Consistent Protocol Reviews
-Reports rejected on: downgraded severity, trusted admin, user mistake, ..
+<!--Reports rejected on: downgraded severity, trusted admin, user mistake, .. -->
 
 | Contest | Reportings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
