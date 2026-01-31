@@ -69,8 +69,8 @@ Smart contracts security researcher and developer. With a proven ability to dete
 | Flying Tulip | 2 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
 | Monolith Stablecoin Factory | 5 | 3 Info | Dec 2025 | Sherlock | EVM | Solidity | Stablecoin Factory / DeFi |
 | Lido V3 | 2 | 1 Known | Nov 2025 - Dec 2025 | Immunefi | EVM | Solidity | Staking |
-| Centrifuge Protocol V3.1 | 2 | none | Oct 2025 - Nov 2025 | Sherlock | EVM | Solidity | RWA / DeFi |
 | Sequence | 1 | none | Nov 2025 | Code4Rena | EVM | Solidity | Trails |
+| Centrifuge Protocol V3.1 | 2 | none | Oct 2025 - Nov 2025 | Sherlock | EVM | Solidity | RWA / DeFi |
 
 
 ## Audit Contests: First Flight
