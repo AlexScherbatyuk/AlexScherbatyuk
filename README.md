@@ -10,7 +10,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 
 ## Technical Expertise
-### Main
+### Primary
 - Languages: Solidity
 - Platforms: EVM
 - Focus Areas: Smart contract security and development
@@ -80,6 +80,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 ## Audit Contests: First Flight
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
 | ------- | ----- | ------ | ---- | -------- | ---------- | -------- | -------- |
+| Vanguard 🏅#5| 3 High, 2 Medium | | January 2026 | Codehawks | EVM | Solidity | Uniswap V4 hook |
 | MultiSig Timelock 🏅#5| 1 High, 2 Medium, 1 Low | | December 2025 | Codehawks | EVM | Solidity | Wallet |
 | Token-0x | 1 High, 2 Low | | December 2025 | Codehawks | EVM | Solidity | ERC20 |
 | RebateFi Hook | 2 High, 1 Medium, 1 Low | | November 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
