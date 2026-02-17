@@ -34,7 +34,8 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - May 2016 - August 2024: Senior Siebel Architect (Senior Full Stack Engineer) at Siblion
 
 ## Highlights
-- Secured 5th place in the Top 5 of the MultiSig Timelock Cyfrin CodeHawks First Flight audit contest.
+- Achieved 5th place (Top 5) in the Vanguard Uniswap V4 hook Cyfrin CodeHawks First Flight audit contest.
+- Secured 5th place (Top 5) in the MultiSig Timelock Cyfrin CodeHawks First Flight audit contest.
 - Selected for Uniswap Hook Incubator (UHI8) by Atrium Academy & Uniswap Foundation — building advanced Uniswap v4 hooks (Jan 2026 cohort)
 - Built secure Solidity smart contracts for DeFi, NFTs, stablecoins, rebases, DAOs, lotteries & upgradeable proxies
 - Reported 10+ high/medium-severity vulnerabilities on CodeHawks First Flight audit contests
@@ -68,7 +69,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 | Contest | Reportings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
-| VII-Finance | 2 | | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
+| VII-Finance | 2 | judging | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
 | OpenCover Insured Vaults | 1 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
 | Flying Tulip | 2 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
 | Monolith Stablecoin Factory | 5 | 3 Info | Dec 2025 | Sherlock | EVM | Solidity | Stablecoin Factory / DeFi |
