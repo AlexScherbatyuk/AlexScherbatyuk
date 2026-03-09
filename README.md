@@ -45,6 +45,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 
 ## Research & Articles
+- [Beware of Malicious “Interview Tasks” on LinkedIn: How Scammers Distribute Harmful Code](https://medium.com/@AlexScherbatyuk/beware-of-malicious-interview-tasks-on-linkedin-how-scammers-distribute-harmful-code-8050a02b2df3)
 - [Uniswap V4 Hooks: A Deep Dive — Part 1: Dreaming Big.](https://medium.com/@AlexScherbatyuk/uniswap-v4-hooks-a-deep-dive-part-1-dreaming-big-b6e9aa98b04d)
 - [The Hidden Superpower of memory storage location. That Every Solidity Dev Misses](https://medium.com/@AlexScherbatyuk/the-hidden-superpower-of-memory-storage-location-that-every-solidity-dev-misses-6898d1a0c347)
 - [Yes, You DO Need a Reentrancy Guard on ERC20 Transfers. No, It’s Not Insane](https://medium.com/@AlexScherbatyuk/yes-you-do-need-a-reentrancy-guard-on-erc20-transfers-no-its-not-insane-cd9d50f1f6a3)
@@ -53,6 +54,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 ### Atrium Academy
 - Uniswap Hook Incubator (UHI8)
+- Capstone Project: [Unichain USDC Bridge Hook](https://github.com/AlexScherbatyuk/uhi8-unichain-usdc-brindge-hook)
 
 ### Cyfrin Updraft Achievements
 - Smart Contract Security
@@ -82,12 +84,12 @@ Smart contracts security researcher and developer. With a proven ability to dete
 ## Audit Contests: First Flight
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
 | ------- | ----- | ------ | ---- | -------- | ---------- | -------- | -------- |
-| Vanguard 🏅#5| 3 High, 2 Medium | | January 2026 | Codehawks | EVM | Solidity | Uniswap V4 hook |
-| MultiSig Timelock 🏅#5| 1 High, 2 Medium, 1 Low | | December 2025 | Codehawks | EVM | Solidity | Wallet |
-| Token-0x | 1 High, 2 Low | | December 2025 | Codehawks | EVM | Solidity | ERC20 |
-| RebateFi Hook | 2 High, 1 Medium, 1 Low | | November 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
+| Vanguard 🏅#5| 3 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Vanguard.md)| January 2026 | Codehawks | EVM | Solidity | Uniswap V4 hook |
+| MultiSig Timelock 🏅#5| 1 High, 2 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-MultiSig-Timelock.md) | December 2025 | Codehawks | EVM | Solidity | Wallet |
+| Token-0x | 1 High, 2 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Token-0x.md) | December 2025 | Codehawks | EVM | Solidity | ERC20 |
+| RebateFi Hook | 2 High, 1 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-RebateFi-Hook.md) | November 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
 | BriVault | 2 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-11-BriVault-audit.pdf) | November 2025 | Codehawks | EVM | Solidity | Vault ERC4626 |
-| Company Simulator| 1 Medium | | October 2025 | Codehawks | EVM | Vyper | DeFi |
+| Company Simulator| 1 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Company-Simulator.md) | October 2025 | Codehawks | EVM | Vyper | DeFi |
 | Raisebox Faucet| 2 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-raisebox-faucet-audit.pdf) | October 2025 | Codehawks | EVM | Solidity | Faucet |
 | Bid Beasts | 2 High, 2 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-bid-beasts-audit.pdf) | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
 | Secret Vault on Aptos | 1 High, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-08-secret-vault-audit.pdf) | August 2025 | Codehawks | Aptos | Move | Vault |
@@ -115,6 +117,7 @@ s-->
 ## Hackathons
 | Contest | Year | Description | Protocol | Winning place | Repository |
 | ------- | ---- | ----------- | ------- | -------------- | ---------- |
+| Uniswap Hook Incubator Hookathon | 2026 | Uniswap V4 Hook for Seamless Cross-Chain Liquidity Bridging | Uniswap, Unichain, Warmhole, CCTP | ongoing | [unichain-usdc-brindge-hook](https://github.com/AlexScherbatyuk/uhi8-unichain-usdc-brindge-hook) 
 | EthGlobal Unite DeFi | 2025 | Atomic Swap cross-chain protocol based on 1inch EVM and SUI | 1inch | none | [ethglobal-unitedefi-atomicswap-contracts](https://github.com/AlexScherbatyuk/ethglobal-unitedefi-atomicswap-contracts) |
 | Chainlink Chromion | 2025 | Seamless cross-chain trading of multi-asset bundles, powered by Chainlink CCIP | Chainlink | none | [chainlink-chromion-decup-contracts](https://github.com/AlexScherbatyuk/chainlink-chromion-decup-contracts) |
 | EthGlobal Bangkok| 2024 | Low code DeFi platform with zero-knowledge proofs | Vlayer | 🥈2nd place | [ethglobal-bangkok-actionflow](https://github.com/Web3Homeless/actionflow) |
