@@ -117,7 +117,8 @@ s-->
 ## Hackathons
 | Contest | Year | Description | Protocol | Winning place | Repository |
 | ------- | ---- | ----------- | ------- | -------------- | ---------- |
-| Uniswap Hook Incubator Hookathon | 2026 | Uniswap V4 Hook for Seamless Cross-Chain Liquidity Bridging | Uniswap, Unichain, Warmhole, CCTP | ongoing | [unichain-usdc-brindge-hook](https://github.com/AlexScherbatyuk/uhi8-unichain-usdc-brindge-hook) 
+| Uniswap Hook Incubator Hookathon | 2026 | Uniswap V4 Hook for Seamless Cross-Chain Liquidity Bridging | Uniswap, Unichain, Chainlink, CCTP | ongoing | [unichain-usdc-brindge-hook](https://github.com/AlexScherbatyuk/uhi8-unichain-usdc-brindge-hook) 
+| Avalanche Build Games | 2026 | P2P Game NFT marketplace tightly integrated with on-chain games | Avalanche, UUPS, ERC712 | ongoing | [game-p2p-nft-market-contracts](https://github.com/ZkNoid/wizard-battle/tree/dev/packages/evm-contracts) |
 | EthGlobal Unite DeFi | 2025 | Atomic Swap cross-chain protocol based on 1inch EVM and SUI | 1inch | none | [ethglobal-unitedefi-atomicswap-contracts](https://github.com/AlexScherbatyuk/ethglobal-unitedefi-atomicswap-contracts) |
 | Chainlink Chromion | 2025 | Seamless cross-chain trading of multi-asset bundles, powered by Chainlink CCIP | Chainlink | none | [chainlink-chromion-decup-contracts](https://github.com/AlexScherbatyuk/chainlink-chromion-decup-contracts) |
 | EthGlobal Bangkok| 2024 | Low code DeFi platform with zero-knowledge proofs | Vlayer | 🥈2nd place | [ethglobal-bangkok-actionflow](https://github.com/Web3Homeless/actionflow) |
