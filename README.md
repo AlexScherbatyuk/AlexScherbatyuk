@@ -50,7 +50,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - [The Hidden Superpower of memory storage location. That Every Solidity Dev Misses](https://medium.com/@AlexScherbatyuk/the-hidden-superpower-of-memory-storage-location-that-every-solidity-dev-misses-6898d1a0c347)
 - [Yes, You DO Need a Reentrancy Guard on ERC20 Transfers. No, It’s Not Insane](https://medium.com/@AlexScherbatyuk/yes-you-do-need-a-reentrancy-guard-on-erc20-transfers-no-its-not-insane-cd9d50f1f6a3)
 
-## Cources & Bootcamps
+## Courses & Bootcamps
 
 ### Atrium Academy
 - Uniswap Hook Incubator (UHI8)
@@ -67,17 +67,21 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - Blockchain Basics
 - [more](https://profiles.cyfrin.io/u/alexscherbatyuk/achievements/completed-courses)
 
+# Private Audits
+| Protocol | Report | Critical | High | Medium | Low | Info | Platform | Language | Category |
+| -------- | ------ |-------- | ---- | ------ | --- | ---- | -------- | -------- | -------- |
+| xxxFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-xxxFinance-audit.pdf) | 2 | 2 | 0 | 1 | 10 | EVM | Solidity | DeFi, Prediction |
 ## Audit Contests: Proof of Consistent Protocol Reviews
 <!--Reports rejected on: downgraded severity, trusted admin, user mistake, .. -->
 
 | Contest | Reportings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
-| VII-Finance | 2 | judging | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
+| VII-Finance | 2 | none | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
 | OpenCover Insured Vaults | 1 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
 | Flying Tulip | 2 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
 | Monolith Stablecoin Factory | 5 | 3 Info | Dec 2025 | Sherlock | EVM | Solidity | Stablecoin Factory / DeFi |
 | Lido V3 | 2 | 1 Known | Nov 2025 - Dec 2025 | Immunefi | EVM | Solidity | Staking |
-| Sequence | 1 | none | Nov 2025 | Code4Rena | EVM | Solidity | Trails |
+| Sequence | 1 | none | Nov 2025 | Code4rena | EVM | Solidity | Trials |
 | Centrifuge Protocol V3.1 | 2 | none | Oct 2025 - Nov 2025 | Sherlock | EVM | Solidity | RWA / DeFi |
 
 
@@ -106,7 +110,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - [Last Man Standing](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf)
 - [BeatLand Festival](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-beatland-festival-audit.pdf)
 - [OrderBook](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf)
-s-->
+-->
 
 <!--## Audit Contests:
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
