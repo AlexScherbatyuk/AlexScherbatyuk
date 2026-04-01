@@ -45,6 +45,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 
 ## Research & Articles
+- [UHI8 CapStone Project: Unichain USDC Bridge Hook](https://medium.com/@AlexScherbatyuk/uhi8-capstone-project-unichain-usdc-bridge-hook-47768cc48cae)
 - [Beware of Malicious “Interview Tasks” on LinkedIn: How Scammers Distribute Harmful Code](https://medium.com/@AlexScherbatyuk/beware-of-malicious-interview-tasks-on-linkedin-how-scammers-distribute-harmful-code-8050a02b2df3)
 - [Uniswap V4 Hooks: A Deep Dive — Part 1: Dreaming Big.](https://medium.com/@AlexScherbatyuk/uniswap-v4-hooks-a-deep-dive-part-1-dreaming-big-b6e9aa98b04d)
 - [The Hidden Superpower of memory storage location. That Every Solidity Dev Misses](https://medium.com/@AlexScherbatyuk/the-hidden-superpower-of-memory-storage-location-that-every-solidity-dev-misses-6898d1a0c347)
