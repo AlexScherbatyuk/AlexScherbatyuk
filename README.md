@@ -34,6 +34,8 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - May 2016 - August 2024: Senior Siebel Architect (Senior Full Stack Engineer) at Siblion
 
 ## Highlights
+- Accepted to KannAudits internship.
+- Developed Uniswap V4 cross-chain bridge hook for seamless liquidity migration to Unichain.
 - Achieved 5th place (Top 5) in the Vanguard Uniswap V4 hook Cyfrin CodeHawks First Flight audit contest.
 - Secured 5th place (Top 5) in the MultiSig Timelock Cyfrin CodeHawks First Flight audit contest.
 - Selected for Uniswap Hook Incubator (UHI8) by Atrium Academy & Uniswap Foundation — building advanced Uniswap v4 hooks (Jan 2026 cohort)
