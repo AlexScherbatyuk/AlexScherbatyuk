@@ -39,6 +39,8 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - Achieved 5th place (Top 5) in the Vanguard Uniswap V4 hook Cyfrin CodeHawks First Flight audit contest.
 - Secured 5th place (Top 5) in the MultiSig Timelock Cyfrin CodeHawks First Flight audit contest.
 - Selected for Uniswap Hook Incubator (UHI8) by Atrium Academy & Uniswap Foundation — building advanced Uniswap v4 hooks (Jan 2026 cohort)
+- Designed and implemented a smart-contracts for an Avalanche-based gaming NFT marketplace, along with an integration layer that enables seamless integration with EVM-based on-chain games.
+- Designed and implemented a Sui-based account abstraction solution for a clicker game as part of a token airdrop campaign. The campaign attracted over 3,000 users and generated more than 1 million transactions.
 - Built secure Solidity smart contracts for DeFi, NFTs, stablecoins, rebases, DAOs, lotteries & upgradeable proxies
 - Reported 10+ high/medium-severity vulnerabilities on CodeHawks First Flight audit contests
 - Reported multiple vulnerabilities on Sherlock, Code4rena, Immunefi & Cantina
