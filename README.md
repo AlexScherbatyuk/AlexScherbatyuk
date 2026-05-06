@@ -34,7 +34,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - May 2016 - August 2024: Senior Siebel Architect (Senior Full Stack Engineer) at Siblion
 
 ## Highlights
-- Accepted to KannAudits internship.
+- Conducted 5 protocol security reviews across Move and Solidity codebases during KannAudits internship.
 - Developed Uniswap V4 cross-chain bridge hook for seamless liquidity migration to Unichain.
 - Achieved 5th place (Top 5) in the Vanguard Uniswap V4 hook Cyfrin CodeHawks First Flight audit contest.
 - Secured 5th place (Top 5) in the MultiSig Timelock Cyfrin CodeHawks First Flight audit contest.
@@ -55,7 +55,10 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - [The Hidden Superpower of memory storage location. That Every Solidity Dev Misses](https://medium.com/@AlexScherbatyuk/the-hidden-superpower-of-memory-storage-location-that-every-solidity-dev-misses-6898d1a0c347)
 - [Yes, You DO Need a Reentrancy Guard on ERC20 Transfers. No, It’s Not Insane](https://medium.com/@AlexScherbatyuk/yes-you-do-need-a-reentrancy-guard-on-erc20-transfers-no-its-not-insane-cd9d50f1f6a3)
 
-## Courses & Bootcamps
+## Internship
+- KannAudits internship
+
+## Courses & Bootcamps 
 
 ### Atrium Academy
 - Uniswap Hook Incubator (UHI8)
@@ -81,6 +84,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 | Contest | Reportings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
+| Intuition | 2 | 2 Low | Mar 2026 | Code4Rena | EVM | Solidity | Decentralized Knowledge Finance |
 | VII-Finance | 2 | none | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
 | OpenCover Insured Vaults | 1 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
 | Flying Tulip | 2 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
