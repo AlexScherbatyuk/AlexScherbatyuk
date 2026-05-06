@@ -39,7 +39,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - Achieved 5th place (Top 5) in the Vanguard Uniswap V4 hook Cyfrin CodeHawks First Flight audit contest.
 - Secured 5th place (Top 5) in the MultiSig Timelock Cyfrin CodeHawks First Flight audit contest.
 - Selected for Uniswap Hook Incubator (UHI8) by Atrium Academy & Uniswap Foundation — building advanced Uniswap v4 hooks (Jan 2026 cohort)
-- Designed and implemented a smart-contracts for an Avalanche-based gaming NFT marketplace, along with an integration layer that enables seamless integration with EVM-based on-chain games.
+- Designed and implemented a smart contracts for an Avalanche-based gaming NFT marketplace, along with an integration layer that enables seamless integration with EVM-based on-chain games.
 - Designed and implemented a Sui-based account abstraction solution for a clicker game as part of a token airdrop campaign. The campaign attracted over 3,000 users and generated more than 1 million transactions.
 - Built secure Solidity smart contracts for DeFi, NFTs, stablecoins, rebases, DAOs, lotteries & upgradeable proxies
 - Reported 10+ high/medium-severity vulnerabilities on CodeHawks First Flight audit contests
@@ -79,22 +79,23 @@ Smart contracts security researcher and developer. With a proven ability to dete
 | Protocol | Report | Critical | High | Medium | Low | Info | Platform | Language | Category |
 | -------- | ------ |-------- | ---- | ------ | --- | ---- | -------- | -------- | -------- |
 | xxxFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-xxxFinance-audit.pdf) | 2 | 2 | 0 | 1 | 10 | EVM | Solidity | DeFi, Prediction |
-## Audit Contests: Proof of Consistent Protocol Reviews
+
+## Competitive Audits: Proof of Consistent Protocol Reviews
 <!--Reports rejected on: downgraded severity, trusted admin, user mistake, .. -->
 
-| Contest | Reportings | Confirmed | Date | Platform | Blockchain | Language | Category |
+| Contest | Findings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
 | Intuition | 2 | 2 Low | Mar 2026 | Code4Rena | EVM | Solidity | Decentralized Knowledge Finance |
-| VII-Finance | 2 | none | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
-| OpenCover Insured Vaults | 1 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
-| Flying Tulip | 2 | none | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
+| VII-Finance | 2 | No | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
+| OpenCover Insured Vaults | 1 | No | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
+| Flying Tulip | 2 | No | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
 | Monolith Stablecoin Factory | 5 | 3 Info | Dec 2025 | Sherlock | EVM | Solidity | Stablecoin Factory / DeFi |
 | Lido V3 | 2 | 1 Known | Nov 2025 - Dec 2025 | Immunefi | EVM | Solidity | Staking |
-| Sequence | 1 | none | Nov 2025 | Code4rena | EVM | Solidity | Trials |
-| Centrifuge Protocol V3.1 | 2 | none | Oct 2025 - Nov 2025 | Sherlock | EVM | Solidity | RWA / DeFi |
+| Sequence | 1 | No | Nov 2025 | Code4rena | EVM | Solidity | Trials |
+| Centrifuge Protocol V3.1 | 2 | No | Oct 2025 - Nov 2025 | Sherlock | EVM | Solidity | RWA / DeFi |
 
 
-## Audit Contests: First Flight
+## Competitive Audits: First Flight
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
 | ------- | ----- | ------ | ---- | -------- | ---------- | -------- | -------- |
 | Vanguard 🏅#5| 3 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Vanguard.md)| January 2026 | Codehawks | EVM | Solidity | Uniswap V4 hook |
@@ -106,7 +107,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 | Raisebox Faucet| 2 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-raisebox-faucet-audit.pdf) | October 2025 | Codehawks | EVM | Solidity | Faucet |
 | Bid Beasts | 2 High, 2 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-bid-beasts-audit.pdf) | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
 | Secret Vault on Aptos | 1 High, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-08-secret-vault-audit.pdf) | August 2025 | Codehawks | Aptos | Move | Vault |
-| Last Man Standing | 1 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf) | August 2025 | Codehawks | EVM | Solidity | Onchain Game |
+| Last Man Standing | 1 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf) | August 2025 | Codehawks | EVM | Solidity | On-chain Game |
 | BeatLand Festival | 1 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-beatland-festival-audit.pdf) | July 2025 | Codehawks | EVM | Solidity | Marketplace |
 | OrderBook | 1 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf) | July 2025 | Codehawks | EVM | Solidity | Peer-to-peer Trading system |
 
@@ -130,7 +131,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 ## Hackathons
 | Contest | Year | Description | Protocol | Winning place | Repository |
 | ------- | ---- | ----------- | ------- | -------------- | ---------- |
-| Uniswap Hook Incubator Hookathon | 2026 | Uniswap V4 Hook for Seamless Cross-Chain Liquidity Bridging | Uniswap, Unichain, Chainlink, CCTP | ongoing | [unichain-usdc-brindge-hook](https://github.com/AlexScherbatyuk/uhi8-unichain-usdc-brindge-hook) 
+| Uniswap Hook Incubator Hookathon | 2026 | Uniswap V4 Hook for Seamless Cross-Chain Liquidity Bridging | Uniswap, Unichain, Chainlink, CCTP | ongoing | [unichain-usdc-bridge-hook](https://github.com/AlexScherbatyuk/uhi8-unichain-usdc-bridge-hook) 
 | Avalanche Build Games | 2026 | P2P Game NFT marketplace tightly integrated with on-chain games | Avalanche | ongoing | [game-p2p-nft-market-contracts](https://github.com/ZkNoid/wizard-battle/tree/dev/packages/evm-contracts) |
 | EthGlobal Unite DeFi | 2025 | Atomic Swap cross-chain protocol based on 1inch EVM and SUI | 1inch | none | [ethglobal-unitedefi-atomicswap-contracts](https://github.com/AlexScherbatyuk/ethglobal-unitedefi-atomicswap-contracts) |
 | Chainlink Chromion | 2025 | Seamless cross-chain trading of multi-asset bundles, powered by Chainlink CCIP | Chainlink | none | [chainlink-chromion-decup-contracts](https://github.com/AlexScherbatyuk/chainlink-chromion-decup-contracts) |
