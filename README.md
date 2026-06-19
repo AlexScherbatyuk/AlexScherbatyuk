@@ -85,6 +85,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 | Contest | Findings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
+| Reserve Governor | 2 | 1 Low | May 2026 | Cantina | EVM | Solidity | Govergovernance |
 | Intuition | 2 | 2 Low | Mar 2026 | Code4Rena | EVM | Solidity | Decentralized Knowledge Finance |
 | VII-Finance | 2 | No | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
 | OpenCover Insured Vaults | 1 | No | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
