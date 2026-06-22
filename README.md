@@ -29,9 +29,9 @@ Smart contracts security researcher and developer. With a proven ability to dete
 <!--- Website:  -->
 
 ## Experience
-- May 2025-present: Blockchain Full Stack developer at zkNoid
-- September 2024 - May 2025: Blockchain full-stack developer at ChopChop
-- May 2016 - August 2024: Senior Siebel Architect (Senior Full Stack Engineer) at Siblion
+- May 2025-present: Blockchain developer at zkNoid
+- September 2024 - May 2025: Blockchain developer at ChopChop
+- May 2016 - August 2024: Senior Siebel Architect / DLT Consultant at Siblion
 
 ## Highlights
 - Conducted 5 protocol security reviews across Move and Solidity codebases during KannAudits internship.
@@ -85,7 +85,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 | Contest | Findings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
-| Reserve Governor | 2 | 1 Low | May 2026 | Cantina | EVM | Solidity | Govergovernance |
+| Reserve Governor | 2 | 1 Low | May 2026 | Cantina | EVM | Solidity | Governance |
 | Intuition | 2 | 2 Low | Mar 2026 | Code4Rena | EVM | Solidity | Decentralized Knowledge Finance |
 | VII-Finance | 2 | No | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
 | OpenCover Insured Vaults | 1 | No | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
