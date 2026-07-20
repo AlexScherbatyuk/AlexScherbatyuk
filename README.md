@@ -1,14 +1,27 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
-<!--![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexscherbatyuk%2F)
-![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.t.me%2Falexscherbatyuk)
-![Twitter/X](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fx.com%2FAlexScherbatyuk)
-![Medium](https://img.shields.io/badge/-Medium-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://medium.com/@AlexScherbatyuk)
--->
+
+<!--
 [![Twitter](https://img.shields.io/badge/Twitter-%40AlexScherbatyuk-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlexScherbatyuk)
 [![Telegram](https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexScherbatyuk)
 [![Medium](https://img.shields.io/badge/Medium-%40AlexScherbatyuk-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AlexScherbatyuk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexScherbatyuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexScherbatyuk)
+-->
 
+<div align="center">
+  <a href="https://twitter.com/AlexScherbatyuk">
+    <img src="https://img.shields.io/badge/Twitter-%40AlexScherbatyuk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@AlexScherbatyuk">
+    <img src="https://img.shields.io/badge/Medium-%40AlexScherbatyuk-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://t.me/AlexScherbatyuk">
+    <img src="https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/AlexScherbatyuk">
+    <img src="https://img.shields.io/badge/LinkedIn-AlexScherbatyuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
 
 ## About Me
 
