@@ -4,6 +4,12 @@
 ![Twitter/X](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fx.com%2FAlexScherbatyuk)
 ![Medium](https://img.shields.io/badge/-Medium-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://medium.com/@AlexScherbatyuk)
 -->
+[![Twitter](https://img.shields.io/badge/Twitter-%40AlexScherbatyuk-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlexScherbatyuk)
+[![Telegram](https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexScherbatyuk)
+[![Medium](https://img.shields.io/badge/Medium-%40AlexScherbatyuk-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AlexScherbatyuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexScherbatyuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexScherbatyuk)
+
+
 ## About Me
 
 Smart contracts security researcher and developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Echidna and Medusa) and static analysis.
@@ -20,12 +26,14 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - Platforms: Solana, SUI, Mina
 - Focus Areas: Blockchain protocols and decentralized applications development
 
+<!---
 ## Contact Me 
 
 - Twitter: [@AlexScherbatyuk](https://twitter.com/AlexScherbatyuk)
 - LinkedIn: [AlexScherbatyuk](https://www.linkedin.com/in/AlexScherbatyuk)
 - Telegram: [@AlexScherbatyuk](https://t.me/AlexScherbatyuk)
 - Medium: [@AlexScherbatyuk](https://medium.com/@AlexScherbatyuk)
+-->
 <!--- Website:  -->
 
 ## Experience
