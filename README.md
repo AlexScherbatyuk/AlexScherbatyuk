@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://medium.com/@AlexScherbatyuk">
-    <img src="https://img.shields.io/badge/Medium-%40AlexScherbatyuk-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-%40AlexScherbatyuk-2D2D2D?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
 
