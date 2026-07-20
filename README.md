@@ -1,29 +1,29 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
 
 
-<!--
-  [![Twitter](https://img.shields.io/badge/Twitter-%40AlexScherbatyuk-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlexScherbatyuk)
+
+  [![Twitter](https://img.shields.io/badge/Twitter-%40AlexScherbatyuk-2D2D2D?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlexScherbatyuk)
   [![Telegram](https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexScherbatyuk)
-  [![Medium](https://img.shields.io/badge/Medium-%40AlexScherbatyuk-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AlexScherbatyuk)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexScherbatyuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexScherbatyuk)
+  [![Medium](https://img.shields.io/badge/Medium-%40AlexScherbatyuk-2D2D2D?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AlexScherbatyuk)
+  <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexScherbatyuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexScherbatyuk)
 -->
 
-
+<!--
 <div align="center">
   <a href="https://twitter.com/AlexScherbatyuk">
     <img src="https://img.shields.io/badge/Twitter-%40AlexScherbatyuk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/AlexScherbatyuk">
+ < <a href="https://www.linkedin.com/in/AlexScherbatyuk">
     <img src="https://img.shields.io/badge/LinkedIn-AlexScherbatyuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/AlexScherbatyuk">
-    <img src="https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://medium.com/@AlexScherbatyuk">
     <img src="https://img.shields.io/badge/Medium-%40AlexScherbatyuk-2D2D2D?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://t.me/AlexScherbatyuk">
+    <img src="https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </div>
-
+-->
 ## About Me
 
 Smart contracts security researcher and developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Echidna and Medusa) and static analysis.
