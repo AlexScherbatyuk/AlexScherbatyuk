@@ -98,9 +98,10 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - [more](https://profiles.cyfrin.io/u/alexscherbatyuk/achievements/completed-courses)
 
 # Private Audits
-| Protocol | Report | Critical | High | Medium | Low | Info | Platform | Language | Category |
-| -------- | ------ |-------- | ---- | ------ | --- | ---- | -------- | -------- | -------- |
-| xxxFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-xxxFinance-audit.pdf) | 2 | 2 | 0 | 1 | 10 | EVM | Solidity | DeFi, Prediction |
+| Protocol | Report | Critical | High | Medium | Low | Info | Team | Platform | Language | Category |
+| -------- | ------ |-------- | ---- | ------ | --- | ---- | ----- | -------- | -------- | -------- |
+| Castr.fun | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) | 1 | 2 | 3 | 5 | 1 | KannAduits | EVM | Solidity | Token Launchpad |
+| PraxisFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-xxxFinance-audit.pdf) | 2 | 2 | - | 1 | 10 | Solo | EVM | Solidity | DeFi, Prediction |
 
 ## Competitive Audits: Proof of Consistent Protocol Reviews
 <!--Reports rejected on: downgraded severity, trusted admin, user mistake, .. -->
