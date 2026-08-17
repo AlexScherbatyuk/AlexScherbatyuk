@@ -26,7 +26,7 @@
 -->
 ## About Me
 
-Smart contracts security researcher and developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Echidna and Medusa) and static analysis.
+Smart contracts security researcher and developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Certora, Echidna and Medusa) and static analysis.
 
 
 ## Technical Expertise
