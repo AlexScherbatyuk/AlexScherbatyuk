@@ -1,28 +1,8 @@
 ## Hi there 👋, I'm Alex Scherbatyuk
-
-
-
-  [![Twitter](https://img.shields.io/badge/Twitter-%40AlexScherbatyuk-2D2D2D?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlexScherbatyuk)
-  [![Telegram](https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexScherbatyuk)
-  [![Medium](https://img.shields.io/badge/Medium-%40AlexScherbatyuk-2D2D2D?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AlexScherbatyuk)
-  <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexScherbatyuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexScherbatyuk)
--->
-
-<!--
-<div align="center">
-  <a href="https://twitter.com/AlexScherbatyuk">
-    <img src="https://img.shields.io/badge/Twitter-%40AlexScherbatyuk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
- < <a href="https://www.linkedin.com/in/AlexScherbatyuk">
-    <img src="https://img.shields.io/badge/LinkedIn-AlexScherbatyuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@AlexScherbatyuk">
-    <img src="https://img.shields.io/badge/Medium-%40AlexScherbatyuk-2D2D2D?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://t.me/AlexScherbatyuk">
-    <img src="https://img.shields.io/badge/Telegram-%40AlexScherbatyuk-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
+<!--![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexscherbatyuk%2F)
+![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.t.me%2Falexscherbatyuk)
+![Twitter/X](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fx.com%2FAlexScherbatyuk)
+![Medium](https://img.shields.io/badge/-Medium-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://medium.com/@AlexScherbatyuk)
 -->
 ## About Me
 
@@ -40,14 +20,12 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - Platforms: Solana, SUI, Mina
 - Focus Areas: Blockchain protocols and decentralized applications development
 
-<!---
 ## Contact Me 
 
 - Twitter: [@AlexScherbatyuk](https://twitter.com/AlexScherbatyuk)
 - LinkedIn: [AlexScherbatyuk](https://www.linkedin.com/in/AlexScherbatyuk)
 - Telegram: [@AlexScherbatyuk](https://t.me/AlexScherbatyuk)
 - Medium: [@AlexScherbatyuk](https://medium.com/@AlexScherbatyuk)
--->
 <!--- Website:  -->
 
 ## Experience
@@ -98,10 +76,17 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - [more](https://profiles.cyfrin.io/u/alexscherbatyuk/achievements/completed-courses)
 
 # Private Audits
+<!--
 | Protocol | Report | Critical | High | Medium | Low | Info | Team | Platform | Language | Category |
 | -------- | ------ |-------- | ---- | ------ | --- | ---- | ----- | -------- | -------- | -------- |
 | Castr.fun | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) | 1 | 2 | 3 | 5 | 1 | KannAduits | EVM | Solidity | Token Launchpad |
-| PraxisFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-xxxFinance-audit.pdf) | 2 | 2 | - | 1 | 10 | Solo | EVM | Solidity | DeFi, Prediction |
+| PraxisFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-PraxisFinance-audit.pdf) | 2 | 2 | - | 1 | 10 | solo | EVM | Solidity | DeFi, Prediction |
+-->
+
+| Protocol | Report | Found | Team | Platform | Language | Category |
+| -------- | ------ |-------- | ---- | ------ | --- | ---- |
+| Castr.fun | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) | 1 Critical, 2 High, 3 Medium, 5 Low, 1 Info | KannAduits | EVM | Solidity | Token Launchpad |
+| PraxisFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-PraxisFinance-audit.pdf) | 2 Critical, 2 High, 1 Low, 10 Info | solo | EVM | Solidity | DeFi, Prediction |
 
 ## Competitive Audits: Proof of Consistent Protocol Reviews
 <!--Reports rejected on: downgraded severity, trusted admin, user mistake, .. -->
