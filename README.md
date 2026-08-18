@@ -107,7 +107,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 | Protocol | Report | Found | Team | Platform | Language | Category |
 | -------- | ------ |-------- | ---- | ------ | --- | ---- |
-| Castr.fun | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) | 1 Critical, 2 High, 3 Medium, 5 Low, 1 Info | KannAduits | EVM | Solidity | Token Launchpad |
+| Castr.fun | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) | 1 Critical, 2 High, 3 Medium, 5 Low, 1 Info | KannAudits | EVM | Solidity | Token Launchpad |
 | PraxisFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-PraxisFinance-audit.pdf) | 2 Critical, 2 High, 1 Low, 10 Info | solo | EVM | Solidity | DeFi, Prediction |
 
 ## Competitive Audits: Proof of Consistent Protocol Reviews
