@@ -97,7 +97,8 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - Blockchain Basics
 - [more](https://profiles.cyfrin.io/u/alexscherbatyuk/achievements/completed-courses)
 
-# Private Audits
+## Audits
+### Private Audits
 <!--
 | Protocol | Report | Critical | High | Medium | Low | Info | Team | Platform | Language | Category |
 | -------- | ------ |-------- | ---- | ------ | --- | ---- | ----- | -------- | -------- | -------- |
@@ -111,37 +112,37 @@ Smart contracts security researcher and developer. With a proven ability to dete
 | Castr.fun | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) | 1 Critical, 2 High, 3 Medium, 5 Low, 1 Info | KannAudits | EVM | Solidity | Token Launchpad |
 | PraxisFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-PraxisFinance-audit.pdf) | 2 Critical, 2 High, 1 Low, 10 Info | solo | EVM | Solidity | DeFi, Prediction |
 
-## Competitive Audits: Proof of Consistent Protocol Reviews
+### Competitive Audits: Proof of Consistent Protocol Reviews
 <!--Reports rejected on: downgraded severity, trusted admin, user mistake, .. -->
 
 | Contest | Findings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
 | Reserve Governor | 2 | 1 Low | May 2026 | Cantina | EVM | Solidity | Governance |
 | Intuition | 2 | 2 Low | Mar 2026 | Code4Rena | EVM | Solidity | Decentralized Knowledge Finance |
-| VII-Finance | 2 | No | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
-| OpenCover Insured Vaults | 1 | No | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
-| Flying Tulip | 2 | No | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
+| VII-Finance | 2 | - | Jan 2026 | Cantina | EVM | Solidity | Lending & Borrowing |
+| OpenCover Insured Vaults | 1 | - | Jan 2026 | Sherlock | EVM | Solidity | DeFi insurance |
+| Flying Tulip | 2 | - | Jan 2026 | Sherlock | EVM | Solidity | DeFi |
 | Monolith Stablecoin Factory | 5 | 3 Info | Dec 2025 | Sherlock | EVM | Solidity | Stablecoin Factory / DeFi |
-| Lido V3 | 2 | 1 Known | Nov 2025 - Dec 2025 | Immunefi | EVM | Solidity | Staking |
-| Sequence | 1 | No | Nov 2025 | Code4rena | EVM | Solidity | Trials |
-| Centrifuge Protocol V3.1 | 2 | No | Oct 2025 - Nov 2025 | Sherlock | EVM | Solidity | RWA / DeFi |
+| Lido V3 | 2 | 1 Known | Dec 2025 | Immunefi | EVM | Solidity | Staking |
+| Sequence | 1 | - | Nov 2025 | Code4rena | EVM | Solidity | Trials |
+| Centrifuge Protocol V3.1 | 2 | - | Oct 2025| Sherlock | EVM | Solidity | RWA / DeFi |
 
 
-## Competitive Audits: First Flight
+### Competitive Audits: First Flight
 | Contest | Found | Report | Date | Platform | Blockchain | Language | Category |
-| ------- | ----- | ------ | ---- | -------- | ---------- | -------- | -------- |
-| Vanguard 🏅#5| 3 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Vanguard.md)| January 2026 | Codehawks | EVM | Solidity | Uniswap V4 hook |
-| MultiSig Timelock 🏅#5| 1 High, 2 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-MultiSig-Timelock.md) | December 2025 | Codehawks | EVM | Solidity | Wallet |
-| Token-0x | 1 High, 2 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Token-0x.md) | December 2025 | Codehawks | EVM | Solidity | ERC20 |
-| RebateFi Hook | 2 High, 1 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-RebateFi-Hook.md) | November 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
-| BriVault | 2 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-11-BriVault-audit.pdf) | November 2025 | Codehawks | EVM | Solidity | Vault ERC4626 |
-| Company Simulator| 1 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Company-Simulator.md) | October 2025 | Codehawks | EVM | Vyper | DeFi |
-| Raisebox Faucet| 2 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-raisebox-faucet-audit.pdf) | October 2025 | Codehawks | EVM | Solidity | Faucet |
-| Bid Beasts | 2 High, 2 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-bid-beasts-audit.pdf) | September 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
-| Secret Vault on Aptos | 1 High, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-08-secret-vault-audit.pdf) | August 2025 | Codehawks | Aptos | Move | Vault |
-| Last Man Standing | 1 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf) | August 2025 | Codehawks | EVM | Solidity | On-chain Game |
-| BeatLand Festival | 1 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-beatland-festival-audit.pdf) | July 2025 | Codehawks | EVM | Solidity | Marketplace |
-| OrderBook | 1 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf) | July 2025 | Codehawks | EVM | Solidity | Peer-to-peer Trading system |
+| ------- | ----- | ------ | ----------- | -------- | ---------- | -------- | -------- |
+| Vanguard 🏅#5| 3 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Vanguard.md)| Jan&nbsp;2026 | Codehawks | EVM | Solidity | Uniswap V4 hook |
+| MultiSig Timelock 🏅#5| 1 High, 2 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-MultiSig-Timelock.md) | Dec&nbsp;2025 | Codehawks | EVM | Solidity | Wallet |
+| Token-0x | 1 High, 2 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Token-0x.md) | Dec 2025 | Codehawks | EVM | Solidity | ERC20 |
+| RebateFi Hook | 2 High, 1 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-RebateFi-Hook.md) | Nov 2025 | Codehawks | EVM | Solidity | Uniswap V4 |
+| BriVault | 2 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-11-BriVault-audit.pdf) | Nov 2025 | Codehawks | EVM | Solidity | Vault ERC4626 |
+| Company Simulator| 1 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/Alexander%20Scherbatyuk-Company-Simulator.md) | Oct 2025 | Codehawks | EVM | Vyper | DeFi |
+| Raisebox Faucet| 2 High, 2 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-raisebox-faucet-audit.pdf) | Oct 2025 | Codehawks | EVM | Solidity | Faucet |
+| Bid Beasts | 2 High, 2 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-10-bid-beasts-audit.pdf) | Sep 2025 | Codehawks | EVM | Solidity | Marketplace Auction |
+| Secret Vault on Aptos | 1 High, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-08-secret-vault-audit.pdf) | Aug 2025 | Codehawks | Aptos | Move | Vault |
+| Last Man Standing | 1 Medium, 1 Low | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-last-man-standing-audit.pdf) | Aug 2025 | Codehawks | EVM | Solidity | On-chain Game |
+| BeatLand Festival | 1 Medium | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-beatland-festival-audit.pdf) | Jul 2025 | Codehawks | EVM | Solidity | Marketplace |
+| OrderBook | 1 High | [📄](https://github.com/AlexScherbatyuk/codehawks-security-researcher-porfolio/blob/main/first-flights/2025-07-orderbook-audit.pdf) | Jul&nbsp;2025 | Codehawks | EVM | Solidity | Peer-to-peer Trading system |
 
 <!--
 ### First Flight Audit Reports
