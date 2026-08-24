@@ -108,6 +108,7 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 | Protocol | Report | Found | Platform | Blockchain | Language | Category |
 | -------- | ------ |-------- | ---- | ------ | --- | ---- |
+| Fluton | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) | 2 Critical, 1 High, 1 Medium, 1 Low, 1 Info | KannAudits | EVM | Solidity | Confidential (FHE) DeFi, Cross-chain, Lending |
 | Need 4 Audit  | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/N4A-security-review-2026-08-18.pdf) | 1 High, 3 Medium, 3 Low, 3 Info | KannAudits | EVM | Solidity | Security Bounty Platform |
 | Castr.fun | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) | 1 Critical, 2 High, 3 Medium, 5 Low, 1 Info | KannAudits | EVM | Solidity | Token Launchpad |
 | PraxisFinance | [📄](https://github.com/AlexScherbatyuk/audits/blob/main/private/2026-03-22-PraxisFinance-audit.pdf) | 2 Critical, 2 High, 1 Low, 10 Info | solo | EVM | Solidity | DeFi, Prediction |
