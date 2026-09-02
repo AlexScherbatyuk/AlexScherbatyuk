@@ -118,6 +118,8 @@ Smart contracts security researcher and developer. With a proven ability to dete
 
 | Contest | Findings | Confirmed | Date | Platform | Blockchain | Language | Category |
 | ------- | ---------- | --------- | ---- | -------- | ---------- | -------- | -------- |
+| Firelight | 1 | 1 High | Aug&nbsp;2026 | Immunefi | EVM | Solidity | DeFi coverage and staking protocol |
+| Metric  | 2 | 2 Medium | Jul&nbsp;2026 | Sherlock | EVM | Solidity | DEX |
 | Reserve Governor | 2 | 1 Low | May&nbsp;2026 | Cantina | EVM | Solidity | Governance |
 | Intuition | 2 | 2 Low | Mar&nbsp;2026 | Code4Rena | EVM | Solidity | Decentralized Knowledge Finance |
 | VII-Finance | 2 | - | Jan&nbsp;2026 | Cantina | EVM | Solidity | Lending & Borrowing |
