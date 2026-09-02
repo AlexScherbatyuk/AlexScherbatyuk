@@ -24,21 +24,30 @@
   </a>
 </div>
 -->
+
 ## About Me
 
 Smart contracts security researcher and developer. With a proven ability to detect and report critical vulnerabilities across a wide range of blockchain platforms, and develop smart contracts for airdrops, DeFi, NFTs, Stablecoins, Rebase tokens, including upgradable proxy contracts and interoperability contracts based on Chainlink CCIP. Strictly follow CEI & FREI-PI patterns, backed by intensive fuzz/invariant testing (Foundry, Certora, Echidna and Medusa) and static analysis.
 
+<!---
+## Profiles
+
+  [![Sherlock](https://img.shields.io/badge/Sherlock-%40AlexScherbatyuk-6557E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAYAAABIB77kAAABCUlEQVR42mNgoAH4%2F%2F%2B%2FJxAfBOI3QPwOCR%2BltkXsQDwDiP8B8UcgngjEJUBcDMUh1LRMAYhP%2F4eAO0CszEArADTcBohfQS17CcRKtLIIhLOA%2BAfUMlAwmhDS5A7EqQSwPRZ9PEC85D8CfAViO2Jc%2Be4%2FYXAVTY8xEN9Gkgf50JPYYHlPhIXXkNSHAfE3JDlQiowjJR6IshCImYG4HYj%2FosmVkxrxxFj4GIj3YRFvJSelEWMhNjAVlErpZeF8IGYkNy%2BRauEaUHxSknlJsXAHELNRWlrcItKyM0DMRY3iqZYIy0CZXJxa5SELEK%2FGY9llIJajRSEcDMRbgfgFEH8B4ougTA3EnNS0CwBZlSNrdnr7jwAAAABJRU5ErkJggg%3D%3D)](https://audits.sherlock.xyz/watson/AlexScherbatyuk)
+  [![Immunefi](https://img.shields.io/badge/Immunefi-%40AlexScherbatyuk-05082B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAYAAAAiwE4nAAADP0lEQVR42pWWeWjPYRzHt5%2Fjh9mobTbHtJRE7jOGP1zlyJEioRTxDyU1hZq5FvPHspJQpBa55T5K8oe5yX0f2RjW3My1r%2Feb98PH0%2B%2F32%2FbUq7bf8zzf9%2FM5nycuLsoIgiAJjAMJ3u91wRQwDXTz5uJBf5AcV5uBDQ3BevABrAJhM9cYvAc%2FQa4nNhq8AntBRk3FwmAJ%2BB78GbdAB0%2Fwo%2BaWer%2FvAVViN0itToybFssCbnoARvH0Zk0q%2BCzBleZ30g5c0t6vYBdoFU2sjsQ%2BacNzMMQTo6uXy50c50BrihnR7uChsbQIpPhijcAixYyLXoMRnhitzwOVwb9B4dOgrRFlLHuAK%2FrWD7ATpNuYZRs3VYDpIGTEGoBlWsOPlILbEuT%2Fh0CmZ2kWuGdEaWkSJ%2BaBtxJjMsxh6huxRLBQc856xrUzOGNcd8QTpaX95N5AoqvjZM0LI5gri5wb88E3fZTrxupjLklOylLn3paa45qO4KoR3OImJsuVHF8kysIvlBhHCRjuxZW0kKi1NE3Jc12%2F8TAH6S23sT6YAV7q4%2B%2B1oFIbysAE62pPtBM4pQ%2FTkqOg2MTvGGjj3G19Phu8C%2F4fPMRElk01NcxMPSsRN%2Fj3CVs6kVraDrOpSjEM1aBDkQEqeDfKQZdoYiz8WYqlPeVjMLI6Ucw38w4bqD0W%2Fo2dWVxPbisz2VpsEuYpGBxJVJYxSTYrXlUqhVKThPk2YRi7qeCNFnNBDmgCNpkm%2FggM9d2jdVuN2EXFc4wxgG4u%2BJ10EnumCXaSFao%2FzqWAjeZj7ByDTHGn6VAum%2B%2FyjtRe3pvjVU7Oa9mcmO91mpl0sbEgWadzbe0JGMhbAGwzh2GB9%2FXaWwa4YPruftdLc4zrKhTPeK%2B5bzBr7oPjRox3Zm9PrDk4YNawCWS6BQlggemX5RG6CmO1xrQ5B5t4H7fWdJ99prlfBl39wg9792GJ4hXy3jlrzX3ImPXyxNLBYWPZ%2BVi1mKAL1sWLmTnMszRdmcxR4JVHU7DdNPOb1tWxHlB5xh13eBXV4E0TVr0562%2BAnjHFPNetU7oX2WdfDMEQmKSku6ZMrtVTMVHvz5QIXWmuXglZ3lxIb9n20cR%2BAQi7EbXjukZvAAAAAElFTkSuQmCC)](https://immunefi.com/profile/AlexScherbatyuk/)
+  [![Cantina](https://img.shields.io/badge/Cantina-%40AlexScherbatyuk-2D2D2D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAYAAACDW21BAAACJUlEQVR42qWVTUhUURTHXzOig7kYJ0lQKQcXfqxCJARBET8KpoUrGWiTIUahhoxSg4mKs3MjEoELXUxE0CKINhGIKDGLIhDEnIUfYIKIKRhZfj%2F%2Ft%2F4vLrd7Hw1z4bd4555z%2Fpdzzn3XslJYtm1XgWHpuwl0W%2BksJAiA2yAs2RpAApzZf1Y17V%2F5vQX6gJf2FhAB5SYRwQ3wBhyBLyCP9mf2v%2Bs64zYU%2BzwoZtwYbQvgIchxxNrARyloH5SBa2BbI3YIPIx9rtlfZ%2Bm9YFayfwMhSxMwBLLAqq1fcakyNw0%2BovT1oAIcS%2FaYKrjPHkYNifZAodKOtwbfBe6%2FdhOcodOiIUlU0%2F8r4NTgL%2FrZ4SY4ynIea4JfOVOoEQ1z2NT1AFS6CbZyOp3gA%2FBBjPl%2FXKcSMAl%2BSPnug0y26q9gLvGLcWbwReBL4y5niJzSdzY1fOLjMXkECujQA%2Fp5wtIUhMRB74InYABcpf0eNWrVknaBIk0v3oGgi5BHlIstkJc49CW3Hj5lghON6JqLYMwwpe2gxk3wMxNMGxJMaMTqDAcUtsug103Q5m%2Bp0TavW8owbBr8pljqpCr4XXF8z2RxQ6J5STBi8PnEqWxT7L8Fs1jrFeXCitEeMVzoAAUTmr1J7gXBLm0%2FwTjIVyctBF7wlWiRHt2kkrSZezuS7ZfzGPOlEU%2FcHOiU76Rp6sTTUiR9XwB3eD2Wpfv6EiyBQfn0%2FIf6dbnPAW%2FEpd1E3mO3AAAAAElFTkSuQmCC)](https://cantina.xyz/u/AlexScherbatyuk)
+
+-->
 
 ## Technical Expertise
 ### Primary
 - Languages: Solidity
 - Platforms: EVM
-- Focus Areas: Smart contract security and development
+- Focus Areas: Smart Contract Security Research and Development
 
 ### Secondary
 - Languages: Rust, Move, TypeScript, JavaScript
 - Platforms: Solana, SUI, Mina
-- Focus Areas: Blockchain protocols and decentralized applications development
+- Focus Areas: Blockchain Protocols and Decentralized Applications Development
 
 <!---
 ## Contact Me 
@@ -56,6 +65,8 @@ Smart contracts security researcher and developer. With a proven ability to dete
 - May 2016 - August 2024: Senior Siebel Architect / DLT Consultant at Siblion
 
 ## Highlights
+- Confirmed 1 High-severity finding in the Firelight (DeFi coverage & staking) audit contest on Immunefi.
+- Confirmed 2 Medium-severity findings in the Metric (DEX) audit contest on Sherlock.
 - Conducted 5 protocol security reviews across Move and Solidity codebases during KannAudits internship.
 - Developed Uniswap V4 cross-chain bridge hook for seamless liquidity migration to Unichain.
 - Achieved 5th place (Top 5) in the Vanguard Uniswap V4 hook Cyfrin CodeHawks First Flight audit contest.
